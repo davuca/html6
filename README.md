@@ -11,7 +11,9 @@ In our days there are more than 100 front-end frameworks, which means that those
 
 Those who have created the **HTML** syntax have done a great job, those whom updated it to **version 5** did the best they could, but now it's up to us to make the last stand!
 
-For us whom have pushed webdesign to the limit using the static languages - **HTML & CSS**, by creating incredible UI & UX interactions from [Pure CSS3 3D Oriented Cities]() to [Interactive Life Experiences Designs](), let us share that little enlightment with those whom are to come after us
+For us whom have pushed webdesign to the limit using the static languages - **HTML & CSS**, by creating incredible UI & UX interactions from [Pure CSS3 3D Oriented Cities](https://codepen.io/rhiros/pen/bBnwE) to [Interactive Life Experience Designs](https://codepen.io/r4ms3s/pen/XJqeKB), let us share that little enlightment with those whom are to come after us, sometimes for a human to unleash its greatness and go beyond expectation it must be inspired!
+
+There is nothing more depressing than to open a webpage that is still based in 2000 layout concept on devices such as the latest Huawei Pro, Apple Iphone, Samsung Galaxy and so on, it feels like playing a 360p video on 8k screen, if we want o see the future of webdesign full of wonders, it is up to us to first build a solid foundation for it to happen!
 
 ## Tags
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
